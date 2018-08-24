@@ -1,0 +1,11 @@
+C:\Users\jorda\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp2.1\nickelback.deps.json
+C:\Users\jorda\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp2.1\nickelback.runtimeconfig.json
+C:\Users\jorda\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp2.1\nickelback.runtimeconfig.dev.json
+C:\Users\jorda\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp2.1\nickelback.dll
+C:\Users\jorda\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp2.1\nickelback.pdb
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.csprojAssemblyReference.cache
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.csproj.CoreCompileInputs.cache
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.AssemblyInfoInputs.cache
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.AssemblyInfo.cs
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.dll
+C:\Users\jorda\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp2.1\nickelback.pdb
